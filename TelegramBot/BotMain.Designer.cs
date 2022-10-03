@@ -163,6 +163,7 @@
             this.textMessage.Name = "textMessage";
             this.textMessage.Size = new System.Drawing.Size(632, 44);
             this.textMessage.TabIndex = 3;
+            this.textMessage.Text = "\"Type your messages here\"";
             // 
             // buttonSend
             // 
